@@ -1,120 +1,68 @@
 
+# Adam's Crypto Investing Masterclass 2.0 Answers
 
-# Adam's Crypto Investing Masterclass Answers
+Staying in the matrix and spending months of your life watching someone talk about things you might not even need in the end is not a G move. Gs always strive to work smarter and not harder. Having an egocentric 'professor' who bullies students and does not help them out when needed but uses them for systems, removing their hard-earned roles, and banning them for no reason is something we do not approve of. Let's see if this is going to make him rethink his arrogant approach and make the course easier and more joyful for everyone. These answers are the result of MONTHS of work from multiple people combined for you to have in a few minutes.
 
-Staying in the matrix and spending months of your life watching someone talk about things you might not even need in the end is not a G move. Gs always thrive to work smarter and not harder. These answers are a result of MONTHS of work from multiple people combined for you to have in a few minutes.
+### How to get the answers?
+Check out [our website]() for pricing and instructions on how to get answers to all the questions.
 
-### List of questions that are answered
-
-#### Level 5 - Crypto Investing Principles:
-* Crypto exposes you to
-* You have now been introduced to the concept of Dollar Cost Averaging (DCA). What is the main benefit?
-* Investing is not just about getting rich, it's...
-* What is the EMH?
-* EMH states:
-* You are being taught this because:
-* What are the forms of EMH?
-* What are the components of Semi-Strong form that can be used to your advantage when investing?
-* Issues complicating the analysis of EMH include:
-* Alpha is?
-* Beta is?
-* Everyone wants to gather as much [???] as possible.
-* High alpha assets...
-* High beta assets are...
-* Low beta assets are...
-* Alpha generation is:
-* Qualitative information is based off:
-* Quantitative information is based off:
-* What type of information forms the basis of what you will be taught in this campus?
-* What are some disadvantages of **qualitative** information?
-* What are some advantages of **quantitative** information?
-* Leading information:
-* Coincident information:
-* Lagging information:
-* What is the most useful type of information for us as investors?
-* By definition, **price** is a:
-* An example of a **lagging** indicator is:
-* An example of a **coincident** indicator is:
-* An example of a **leading** indicator is:
-* Are altcoins designed to make you, specifically, extra gains?
-* Altcoins were designed
-* Should you have constant exposure to altcoins?
-* Altcoins have the highest performance:
-* Also, the best time to sell altcoins is?
-* This means, in the context of the whole market cycle, you only really should have high levels of conviction in altcoins for a short period of time. Perhaps as little as a few weeks every 4-5 years.
-* What is the primary benefit of diversifying your investments?
-* What type of risk cannot be diversified away?
-* [???] are reduced faster than [???] when diversifying.
-* Diversification mainly works best when
-* Correlation is:
-* The crypto market is [???] correlated which [???]
-* Every cryptocurrency in the market is correlated to BTC and the prevailing market risk conditions (bullish/bearish)
-* Correlation operates over a scale of [???] to [???]
-* Two assets with a correlation of +0.5 means
-* The strength of correlation between cryptocurrencies and other asset classes
-* Crypto is **generally** [???] correlated to Stocks
-* Crypto is **generally** [???] correlated to the US dollar.
-* 99% of the time, holding altcoins is just a leveraged bitcoin bet
-* If a tokens technology is good enough, it will be able to perform well even if the overall market is under bearish pressure
-* Use the method outlined in the lesson to determine the correlation of BTC to S&P 500 on Fri 27/10/2023. Use the following procedure - Open the **Correlation Coefficient** indicator and set it to the **INDEX:BTCUSD** symbol - Select **TVC:SPX** for your S&P 500 input through the symbol search, and set the time internal to the **1D** chart - Keep the default indicator settings (Source: close, Length: 20) - **Place your cursor** over the Fri 27 Oct '23 bar  - You can read the correlation value, displayed in blue, directly above the correlation graph What is the correlation?
-* Successful investors have
-* Assets in a portfolio should be weighted:
-* What is the classic low risk - high risk % portfolio split?
-* If you're trading, what would your portfolio split look like?
-* Considering the Barbell Strategy, what should you do when you make gains from the risky part of the portfolio?
-* We want to use the Barbell Portfolio:
-* Having a portfolio filled with shitcoins is
-* Over-diversification:
-* How do altcoins behave vs BTC?
-* A rational investor would select the asset with:
-* Risk increases faster than reward...
-* The 'performance ratio' is calculated as:
-* Following on from the previous question. The value of this ratio is preferred to be...
-* You have an asset with a reward of '25' and a risk of '10'. What is the performance ratio?
-* At the time of recording, which asset generally has the highest known long-run performance ratio in the crypto market?
-* Can DCA'ing get you a lower average entry, even if the price sometimes goes above the average?
-* Are there strict rules on the exact deployment of DCA strategies?
-* Does DCA'ing take into consideration 'special opportunities'?
-* Professor Ducksworth decides to invest in Ethereum (ETH) using a dollar cost averaging strategy. He invests $1000 every month regardless of the price of ETH over a 3 month period. After these three months, Professor Ducksworth accumulated 0.85 ETH. What is his cost basis?
-* Following on from the previous question. Let's say Ducksworth's close friend Earl Squirrelson had the same total amount of capital to invest ($3000), but bought it all at once for a price of $3700 per ETH. Who got the lower entry price?
-* What are some of the advantages of Dollar Cost Averaging?
-* What are some of the disadvantages of Dollar Cost Averaging?
-* What are the only price analysis methods that exist?
-* You miss an oversold signal, what's your next move?
-* Is mean-reversion or trend following better to solely focus upon?
-* A binary indicator:
-* A perpetual indicator:
-* The market cycles through phases of:
-* Binary indicators can suffer from:
-* The probability of price reaching your take profit level in a static trade, with a risk reward ratio of 3:1, is...
-* Do you have a 50/50 coin flip chance of a successful trade with a stop loss to take profit ratio that is not equal?
-* Are stop-loss and take-profit levels an easy way of passively managing your trades and investment positions?
-* Price behavior over most time horizons is...
-* What are some methods we can use to increase our odds?
-* Hypothetically, which of these return distributions is **preferred** by a cryptocurrency investor?
-* What is qualitative information?
-* What is quantitative information?
-* Why are altcoins designed?
-* You can diversify away the unique risk, but not the market risk :
-* How should the assets in your portfolio be weighted?
-* There are two types of price analysis principles (trend following and mean reversion), what are the two sub types?
-* What is the true currency of the market?
-* Do you need to be able to 'Predict the future' or 'Know what's going to happen in the future' to be a profitable investor?
-* Gambling is:
-* Your emotions:
-* Luck (a.k.a; hope/guessing) must be [??? ???] a portfolio.
-* Investing rules:
-* If the strategy you are using doesn't work:
-* Profit is a [???] outcome of maximizing professionalism, not a target in its own right.
-* The only thing that matters is:
-* Are all cryptocurrency indicators and analysis techniques created equal?
-* Do you need to know the most complex principles possible to gain a competitive edge in the market?
-* What is the most powerful technique(s) for asset selection?
-* When are altcoins most likely to pump?
-* In regards to the efficient market hypothesis (EMH), generally which two semi-strong forms can you use to your advantage in investing?
-* Alpha generation is complex, what is a technique that assists in this?
-* Dollar cost averaging takes advantage of the natural [???] of the market to give you the best [???] price.
-* Are you ready to stay dedicated and embark on the journey toward professionalism?
-
-#### Level 6 - Crypto Investing Masterclass:
-
+### List of answered IMC Exam questions
+* How does 'Monetary Inflation' impact the markets?
+* Which location is best to invest in high beta assets?
+* What are the fundamental behavioral components in non-stationary data?
+* You are deploying a medium-term swing trading strategy. If the TPI changes from  +0.6 to  -0.2, what is most likely your optimal strategy?
+* You are deploying a medium-term swing trading strategy. If the TPI changes from "-0.5" to "-0.15", what is most likely your optimal strategy?
+* Assume a strategy starting on 1/1/2018, and finishing 1/1/2022.
+Imagine this ideal strategy is consistent with the principles/technique I have highlighted earlier in the masterclass on the "concept of extracting alpha out of the full market cycle".
+If the total number of trades is, say, 40...
+What would the 'Average number of bars in trade:' metric show, assuming you're using the 1D chart?
+Select the closest answer:
+* Which of these is categorized as a fundamental indicator in an SDCA system?
+* What is 'Dovish' monetary policy?
+* Why is the Sortino Ratio considered "better" than Sharpe Ratio
+* Discretionary technical analysis [???]
+* What is the difference between the sortino and the omega ratio?
+* You're deploying a long term SDCA strategy.
+Market valuation analysis shows a Z-Score of 1.3
+Long Term TPI is @ 0.4 (Previous: -0.2)
+Market valuation has been below 1.5Z for a few months.
+What is your optimal strategic choice?
+* You're deploying a long term SDCA strategy.
+Market valuation analysis shows a Z-Score of 0.99
+Long Term TPI is @ -0.5 (Previous: -0.25)
+Market valuation has not been below 1.5Z yet.
+What is your optimal strategic choice?
+* You're deploying a long term SDCA strategy.
+Market valuation analysis shows a Z-Score of 1.64
+Long Term TPI is @ -0.9 (Previous: -0.7)
+Market valuation has been below 1.5Z for a couple of months.
+What is your optimal strategic choice?
+* Which series has the highest beta.
+* Which one of these "assets" is tangent to the efficient frontier? (Original vanilla MPT)
+* A secret service courier carrying a briefcase with the codes to the USA's nuclear defense system has a mean delivery time of 1.3 hours with a standard deviation of 20 minutes.
+What is the probability you'll get your hands on the nuclear defense codes before North Korea launch a ICBM attack on the USA in 68 minutes.
+* Of all the price analysis methodologies that exist, which are the foundational methods.
+* Is emotionality useful in quantitative finance?
+* Crypto is generally negatively correlated to:
+* Open Tradingview and load up the default TV ‘Supertrend Strategy ↑↓' from the indicators menu.
+Chart: INDEX:BTCUSD
+Properties: 1k$ capital, 100% equity, 0 pyramiding, 0 slippage, margin for long and short positions 0%
+Using the replay function, cut the timeseries at 29/5/2022.
+What is the sortino ratio of the strategy backtest?
+* What is the profitability percentage of the long-only trades?
+* Modern portfolio theory uses which two measurements to classify the efficiency of assets.
+* Is the following indicator trend following, or mean reverting?
+* How does one achieve 'time-coherence'?
+* Lack of time coherence leads to:
+* Assuming the omega ratio is a superior method of classifying asset efficiency relative to the sortino ratio, which two measurements should ACTUALLY be used in modern portfolio theory?
+* Which two of these indicators are 'time-coherent'.
+* Using the Public MACRO BITCOIN scorecard spreadsheet (linked in its associated masterclass lesson - Long Term 32), create a COPY of it and perform a complete valuation analysis for the date 1/2/2023 (dd/mm/yyyy).
+The 'Overall Position' results in:
+* What is the highest form of analysis?
+* Once you complete the masterclass, what is the recommended development path for your personal systems?
+* High crypto market correlation...
+* Crypto is generally positively correlated to:
+* Assuming the sortino ratio is a superior method of classifying asset efficiency, which two measurements should be used in modern portfolio theory instead (a.k.a. Post-modern portfolio theory)
+* Use portfolio visualizer to find the omega optimized portfolio weights for buy-and-hold ^BTC & ^ETH. Start/End: Sep 2015 - March 2024. Month-to-month time periods. Target return 0%.
+* Which one of these "assets" is tangent to the efficient frontier? (Ultimate-MPT)
+* What is the true currency of the financial markets?
