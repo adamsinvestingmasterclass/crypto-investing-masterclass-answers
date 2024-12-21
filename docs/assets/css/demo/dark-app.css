@@ -1,0 +1,276 @@
+/* ***** Global ***** */
+:root {
+	--lqd-container-width-md: 970px;
+	--lqd-container-width-sm: 750px;
+	
+	--lqd-color-primary: #5e55ff;
+	--lqd-body-text-color: rgba(255, 255, 255, .47);
+	--lqd-color-link: #5b7bfb;
+	--lqd-color-link-hover: #181b31;
+	--lqd-color-gradient-start: #f42958;
+	--lqd-color-gradient-stop: #e4442a;
+	--lqd-color-dark: #171717;
+	--lqd-color-slate-900: #262626;
+	--lqd-color-gray-500: #818181;
+	--lqd-color-gray-700: #cbcbcb;
+	--lqd-color-gray-800: #1c1c1e;
+	--lqd-color-gray-900: #141414;
+	--lqd-color-footer: #1a1a1a;
+
+	--lqd-body-font-family: 'Be Vietnam Pro', sans-serif;
+	--lqd-body-font-size: 15px;
+	--lqd-body-line-height: 1.7em;
+
+	--lqd-heading-font-family: "Space Grotesk", sans-serif;
+	--lqd-heading-font-weight: 500;
+	--lqd-heading-line-height: 1.2em;
+	--lqd-heading-color: #fff;
+	--lqd-h1-font-size: 52px;
+	--lqd-h2-font-size: 40px;
+	--lqd-h3-font-size: 32px;
+	--lqd-h4-font-size: 25px;
+	--lqd-h5-font-size: 21px;
+	--lqd-h6-font-size: 18px;
+}
+
+/* ***** Button ***** */
+.btn-xs {
+	--btn-ps: 1.5em;
+	--btn-pt: 0.6em;
+	--btn-pe: 1.5em;
+	--btn-pb: 0.6em;
+}
+
+.btn-md {
+	font-size: 13px;
+	font-weight: 700;
+	letter-spacing: 0.1em;
+	line-height: 2em;
+	--btn-ps: 2.15em;
+	--btn-pt: 1.15em;
+	--btn-pe: 2.15em;
+	--btn-pb: 1.15em;
+}
+
+.btn-border-lg:hover {
+	background-color: #fff;
+	border-color: #fff;
+	color: #000;
+}
+
+/* ***** Main Header ***** */
+.main-header .btn-solid:hover {
+	border-color: transparent;
+	background-color: var(--lqd-color-primary);
+	color: #fff;
+	transform: translate3d(0, -2px, 0);
+	box-shadow: 0 12px 28px rgba(0, 0, 0, .12);
+}
+
+/* ***** Banner ***** */
+@media (max-width: 991px) {
+	.banner {
+		padding-top: 60px;
+		padding-bottom: 60px;
+	}
+
+	.banner .ld-fancy-heading h1 {
+		font-size: 7vw;
+		padding-right: 1vw;
+		padding-left: 1vw;
+	}
+
+	.banner .module-img {
+		padding-top: 120px;
+	}
+}
+
+@media (max-width: 767px) {
+	.banner {
+		padding-top: 70px;
+		padding-bottom: 30px;
+	}
+
+	.banner .ld-fancy-heading h1 {
+		font-size: 13vw;
+	}
+}
+
+/* ***** Navigation Sections ***** */
+.navigation-sections ul>li>a:hover,
+.navigation-sections li.is-active>a {
+	color: #ffffff;
+	background: #000;
+}
+
+/* ***** Features ***** */
+.features .container {
+	--lqd-row-gutter-x: 4px;
+}
+
+.features .row {
+	margin-inline-start: -2px;
+	margin-inline-end: -2px;
+	--lqd-row-gutter-x: 4px;
+}
+
+@media (max-width: 991px) {
+	.features .module-icon-box-1 {
+		padding: 15px 15px 5px 15px;
+	}
+
+	.features .module-icon-box-2 {
+		padding: 25px 15px 5px 15px;
+	}
+}
+
+@media (max-width: 767px) {
+	.features .ld-fancy-heading h2 {
+		font-size: 40px;
+	}
+}
+
+/* ***** Float Text ***** */
+@media (max-width: 991px) {
+	.float-text .ld-fancy-heading h2 {
+		font-size: 48px;
+	}
+}
+
+@media (max-width: 767px) {
+	.float-text .ld-fancy-heading h2 {
+		font-size: 10vw;
+	}
+}
+
+/* ***** Float Text 1 ***** */
+.float-text-1 {
+	padding-top: 5vh;
+	padding-bottom: 10vh;
+}
+
+/* ***** Float Text 2 ***** */
+.float-text-2 {
+	padding-top: 10vh;
+	padding-bottom: 10vh;
+}
+
+/* ***** Float Text 3 ***** */
+.float-text-3 {
+	padding-top: 10vh;
+	padding-bottom: 20vh;
+}
+
+/* ***** Connect ***** */
+.connect {
+	margin-right: 10vw;
+	margin-left: 10vw;
+}
+
+.connect .lqd-tabs-nav li a.active {
+	color: #ffffff;
+}
+
+@media (max-width: 1199px) {
+	.connect {
+		margin-right: 2vw;
+		margin-left: 2vw;
+	}
+}
+
+@media (max-width: 991px) {
+	.connect {
+		margin-right: 1vw;
+		margin-left: 1vw;
+	}
+
+	.lqd-tabs-style-3 .lqd-tabs-nav li {
+		margin-inline-start: 15px;
+		margin-inline-end: 15px;
+	}
+
+}
+
+@media (max-width: 767px) {
+	.connect {
+		padding-top: 45px;
+	}
+
+	.connect .ld-fancy-heading h2 {
+		font-size: 12vw;
+	}
+
+	.lqd-tabs-style-3 .lqd-tabs-nav li {
+		margin-inline-start: 0;
+		margin-inline-end: 0;
+		margin-bottom: 1.5em;
+	}
+}
+
+/* ***** Pricing ***** */
+.pricing .lqd-tabs-nav li a.active {
+	background: rgb(23, 23, 23);
+}
+
+@media (max-width: 991px) {
+
+	.pricing .lqd-pt-head,
+	.pricing .lqd-pt-body {
+		padding-right: 3rem;
+		padding-left: 3rem;
+	}
+}
+
+@media (max-width: 767px) {
+	.pricing .ld-fancy-heading h2 {
+		font-size: 40px;
+	}
+}
+
+/* ***** Download ***** */
+@media (max-width: 991px) {
+	.download .module-first {
+		margin-bottom: 35px;
+	}
+}
+
+@media (max-width: 767px) {
+	.download .ld-fancy-heading h2 {
+		font-size: 12vw;
+	}
+}
+
+/* ***** Footer ***** */
+/* ***** Clients ***** */
+.clients .carousel-items {
+	margin-inline-start: -1.5%;
+	margin-inline-end: -1.5%;
+}
+
+.clients .flickity-slider {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+}
+
+.clients .carousel-item {
+	width: 16.6667%;
+	padding-inline-start: 1.5%;
+	padding-inline-end: 1.5%;
+}
+
+@media (max-width: 991px) {
+	.clients .carousel-item {
+		width: 20%;
+	}
+}
+
+@media (max-width: 767px) {
+	.clients .carousel-item {
+		width: 33.333%;
+	}
+
+	.main-footer .ld-sf--button-inside [type=submit] {
+		position: relative;
+	}
+}
