@@ -4,7 +4,7 @@
 Staying in the matrix and spending months of your life watching someone talk about things you might not even need in the end is not a G move. Gs always strive to work smarter and not harder. Having an egocentric 'professor' who bullies students and does not help them out when needed but uses them for systems, removing their hard-earned roles, and banning them for no reason is something we do not approve of. Let's see if this is going to make him rethink his arrogant approach and make the course easier and more joyful for everyone. These answers are the result of MONTHS of work from multiple people combined for you to have in a few minutes.
 
 ### How to get the answers?
-Check out [our website]() for pricing and instructions on how to get answers to all the questions.
+Check out [our website](https://adamsinvestingmasterclass.github.io/crypto-investing-masterclass-answers/) for pricing and instructions on how to get answers to all the questions.
 
 ### List of answered IMC Exam questions
 * How does 'Monetary Inflation' impact the markets?
